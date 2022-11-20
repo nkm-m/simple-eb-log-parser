@@ -1,4 +1,4 @@
-使い方
+# 使い方
 
 ## 1. Elastic Beanstalk のバンドルログをダウンロードします  
 
@@ -45,7 +45,7 @@ npm start
 
 エラー以外を抽出したい場合には、以下の部分で抽出する文字列を指定してください。
 
-```javascript:app.js
+``` javascript:app.js
 if (
   logs[i].includes("ERROR") ||
   logs[i].includes("error") ||
@@ -57,7 +57,7 @@ if (
 
 カスタムログファイルを追加したい場合には、以下の部分でファイル名を追加してください。
 
-```javascript:app.js
+``` javascript:app.js
 const files = [
   "cfn-hup.log",
   "cfn-init-cmd.log",
