@@ -16,7 +16,10 @@ git clone https://github.com/nkm-m/simple-eb-log-parser.git .
 ```
 
 ## 4. バンドルログの log ディレクトリにアプリのファイルをコピーします
-![2022-11-20_10h40_32](https://user-images.githubusercontent.com/55443396/202878714-5f7ebef5-c9c6-4243-8109-27afd9ab3968.png)
+
+![2022-11-20_10h40_32](https://user-images.githubusercontent.com/55443396/202878810-2b4280b0-9d0a-484d-b5f9-ac37691db56a.png)
+
+
 
 ## 5 npm install
 
@@ -35,7 +38,8 @@ npm start
 ```
 
 ## 7. エラーログのみが表示されます
-![2022-11-20_10h42_05](https://user-images.githubusercontent.com/55443396/202878738-25f498bf-0d16-435b-af8c-0b93c0bd181d.png)
+![2022-11-20_10h42_05](https://user-images.githubusercontent.com/55443396/202878819-c64a41ab-5914-495f-b057-4d3595997c0a.png)
+
 
 ターミナルに以下の文字列を含むエラーログのみが表示されます。
 
