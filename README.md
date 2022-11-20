@@ -9,13 +9,14 @@ https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/using-features.logg
 
 ## 2. バンドルログの zip ファイルを解凍します。
 
-## 3. バンドルログの log ディレクトリをターミナルなどで開きます
-
-## 4. log ディレクトリにアプリをクローンします
+## 3. アプリをクローンします
 
 ```bash
 git clone https://github.com/nkm-m/simple-eb-log-parser.git .
 ```
+
+## 4. バンドルログの log ディレクトリにアプリのファイルをコピーします
+
 
 ## 5 npm install
 
